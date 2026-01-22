@@ -126,35 +126,11 @@ Examples:
 
 ---
 
-## 📌 Suggested Visuals for GitHub (Highly Recommended)
-Add these images to make your repo resume-ready:
-
-1. **ML Pipeline Flow Diagram**
-   - Data → EDA → Preprocessing → Sampling → Modeling → Evaluation
-
-2. **Class Imbalance Visualization**
-   - Bar chart showing Certified vs Denied distribution
-
-3. **Model Comparison Chart**
-   - Precision / Recall / F1 across models
-
-4. **Feature Importance Plot**
-   - Top drivers influencing visa approval
-
-*(These images can be exported from the notebook or recreated using draw.io / PowerPoint.)*
-
----
-
 ## 🔗 How to Use This Repository
 1. Clone the repository
 2. Open the notebook in Jupyter or Colab
 3. Run cells sequentially from top to bottom
 4. Review outputs and business insights
-
----
-
-## ✨ Resume-Ready Summary
-> Built an end-to-end machine learning classification solution to predict U.S. visa approval outcomes, handling class imbalance, comparing multiple models, tuning hyperparameters, and delivering business-focused insights with high precision.
 
 ---
 
